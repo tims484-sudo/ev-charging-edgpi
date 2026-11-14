@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+outputs/
+.venv/
+.DS_Store
+# raw data is not redistributed - see README for sources
+data/*.csv
